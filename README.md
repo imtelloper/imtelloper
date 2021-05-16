@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=500&section=header&text=SeungHoonLim&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=wave&color=4169e1&height=500&section=header&text=SeungHoonLim&fontSize=100&fontColor=ffffff)
 
 <br/>
 
