@@ -3,7 +3,7 @@
 <br/>
 
 - 🙋🏻‍‍ Hi, I’m @imtelloper
-- 👨🏻‍💻 Currently, I am working as fullstack web app developer and using React and NodeJS
+- 👨🏻‍💻 Currently, I am working as fullstack web app developer and using React and FastAPI
 - 💻 I’m currently learning data analysis to improve my web development skill to possible make AI web app service.
 
 <!---
